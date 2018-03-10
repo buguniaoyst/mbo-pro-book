@@ -1,3 +1,4 @@
-# My Awesome Book
+# 目标管理与绩效考核平台
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+目标管理与绩效考核平台构想
+
